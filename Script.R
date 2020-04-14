@@ -1,4 +1,4 @@
-setwd("C:/Users/tbndo/Google Drive/Projects/COVID 19")
+setwd("C:/Users/tbndo/Google Drive/Projects/COVID-19")
 
 library(tidyverse)
 library(magrittr)
@@ -21,7 +21,7 @@ df %>%
   select(Date, Day, Province, 'Cases by Province') %>%
   group_by(Province) %>%
   mutate(cumul_sum = cumsum(`Cases by Province`)) ->
-  cases_by_province
+  cases_by_province 
 
 
 cases_by_province %>% 
@@ -42,7 +42,7 @@ cases_by_province %>%
   labs(
     x = 'Day', y = 'Number of infections', title = 'Anatomy of COVID-19 in South African Provinces'
   ) +
-  scale_x_continuous(breaks = c(-1:30), limits = c(-1, 22)) +
+  scale_x_continuous(breaks = c(-1:45), limits = c(-1, 45)) +
   scale_y_continuous(breaks = seq(0, 450, 50)) +
   scale_color_brewer(palette = "RdYlBu", direction = -1) 
 
