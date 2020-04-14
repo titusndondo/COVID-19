@@ -1,12 +1,10 @@
-setwd("C:/Users/tbndo/Google Drive/Projects/COVID-19")
-
 library(tidyverse)
 library(magrittr)
 library(ggrepel)
 library(plotly)
 
 df = read_csv("covid19_data.csv")
-df
+df 
 
 cols = c('#8B4513', '#A0522D', '#D2691E', 
          '#CD853F', '#F4A460', '#DEB887', 
@@ -70,7 +68,7 @@ infection_data %>%
   theme(
     legend.position = 'none'
   ) +
-  scale_x_continuous(breaks = c(-1:22)) +
+  scale_x_continuous(breaks = c(-1:45)) +
   scale_colour_manual(values = cols) ->
   g2
 
