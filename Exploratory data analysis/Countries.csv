@@ -1,0 +1,186 @@
+country,country_id,continent
+Afghanistan,1,Asia
+Albania,2,Europe
+Algeria,3,Africa
+Andorra,4,Europe
+Angola,5,Africa
+Antigua and Barbuda,6,North America
+Argentina,7,South America
+Armenia,8,Europe
+Australia,9,Oceania
+Austria,10,Europe
+Azerbaijan,11,Europe
+Bahamas,12,North America
+Bahrain,13,Asia
+Bangladesh,14,Asia
+Barbados,15,North America
+Belarus,16,Europe
+Belgium,17,Europe
+Belize,18,North America
+Benin,19,Africa
+Bhutan,20,Asia
+Bolivia,21,South America
+Bosnia and Herzegovina,22,Europe
+Botswana,23,Africa
+Brazil,24,South America
+Brunei,25,Asia
+Bulgaria,26,Europe
+Burkina Faso,27,
+Burma,28,
+Burundi,29,Africa
+Cabo Verde,30,
+Cambodia,31,Asia
+Cameroon,32,Africa
+Canada,33,North America
+Central African Republic,34,Africa
+Chad,35,Africa
+Chile,36,South America
+China,37,Asia
+Colombia,38,South America
+Congo (Brazzaville),39,
+Congo (Kinshasa),40,
+Costa Rica,41,North America
+Cote d'Ivoire,42,
+Croatia,43,Europe
+Cuba,44,North America
+Cyprus,45,Europe
+Czechia,46,
+Denmark,47,Europe
+Diamond Princess,48,
+Djibouti,49,Africa
+Dominica,50,North America
+Dominican Republic,51,North America
+Ecuador,52,South America
+Egypt,53,Africa
+El Salvador,54,North America
+Equatorial Guinea,55,Africa
+Eritrea,56,Africa
+Estonia,57,Europe
+Eswatini,58,
+Ethiopia,59,Africa
+Fiji,60,Oceania
+Finland,61,Europe
+France,62,Europe
+Gabon,63,Africa
+Gambia,64,Africa
+Georgia,65,Europe
+Germany,66,Europe
+Ghana,67,Africa
+Greece,68,Europe
+Grenada,69,North America
+Guatemala,70,North America
+Guinea,71,Africa
+Guinea-Bissau,72,Africa
+Guyana,73,South America
+Haiti,74,North America
+Holy See,75,
+Honduras,76,North America
+Hungary,77,Europe
+Iceland,78,Europe
+India,79,Asia
+Indonesia,80,Asia
+Iran,81,Asia
+Iraq,82,Asia
+Ireland,83,Europe
+Israel,84,Asia
+Italy,85,Europe
+Jamaica,86,North America
+Japan,87,Asia
+Jordan,88,Asia
+Kazakhstan,89,Asia
+Kenya,90,Africa
+South Korea,91,Asia
+Kosovo,92,
+Kuwait,93,Asia
+Kyrgyzstan,94,Asia
+Laos,95,Asia
+Latvia,96,Europe
+Lebanon,97,Asia
+Liberia,98,Africa
+Libya,99,Africa
+Liechtenstein,100,Europe
+Lithuania,101,Europe
+Luxembourg,102,Europe
+Madagascar,103,Africa
+Malawi,104,Africa
+Malaysia,105,Asia
+Maldives,106,Asia
+Mali,107,Africa
+Malta,108,Europe
+Mauritania,109,Africa
+Mauritius,110,Africa
+Mexico,111,North America
+Moldova,112,Europe
+Monaco,113,Europe
+Mongolia,114,Asia
+Montenegro,115,Europe
+Morocco,116,Africa
+Mozambique,117,Africa
+MS Zaandam,118,
+Namibia,119,Africa
+Nepal,120,Asia
+Netherlands,121,Europe
+New Zealand,122,Oceania
+Nicaragua,123,North America
+Niger,124,Africa
+Nigeria,125,Africa
+North Macedonia,126,
+Norway,127,Europe
+Oman,128,Asia
+Pakistan,129,Asia
+Panama,130,North America
+Papua New Guinea,131,Oceania
+Paraguay,132,South America
+Peru,133,South America
+Philippines,134,Asia
+Poland,135,Europe
+Portugal,136,Europe
+Qatar,137,Asia
+Romania,138,Europe
+Russia,139,
+Rwanda,140,Africa
+Saint Kitts and Nevis,141,North America
+Saint Lucia,142,North America
+Saint Vincent and the Grenadines,143,North America
+San Marino,144,Europe
+Sao Tome and Principe,145,Africa
+Saudi Arabia,146,Asia
+Senegal,147,Africa
+Serbia,148,Europe
+Seychelles,149,Africa
+Sierra Leone,150,Africa
+Singapore,151,Asia
+Slovakia,152,Europe
+Slovenia,153,Europe
+Somalia,154,Africa
+South Africa,155,Africa
+South Sudan,156,Africa
+Spain,157,Europe
+Sri Lanka,158,Asia
+Sudan,159,Africa
+Suriname,160,South America
+Sweden,161,Europe
+Switzerland,162,Europe
+Syria,163,Asia
+Taiwan,164,
+Tanzania,165,Africa
+Thailand,166,Asia
+Timor-Leste,167,
+Togo,168,Africa
+Trinidad and Tobago,169,North America
+Tunisia,170,Africa
+Turkey,171,Asia
+Uganda,172,Africa
+Ukraine,173,Europe
+United Arab Emirates,174,Asia
+United Kingdom,175,Europe
+Uruguay,176,South America
+United States,177,North America
+Uzbekistan,178,Asia
+Venezuela,179,South America
+Vietnam,180,Asia
+West Bank and Gaza,181,
+Western Sahara,182,
+Yemen,183,Asia
+Zambia,184,Africa
+Zimbabwe,185,Africa
